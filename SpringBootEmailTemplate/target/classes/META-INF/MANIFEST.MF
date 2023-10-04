@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: abdul.sathik
+Build-Jdk: 17.0.7
+Implementation-Title: SpringBootEmailTemplate
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javabydeveloper
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBootEma
+ ilTemplate
+Created-By: Maven Integration for Eclipse
+
