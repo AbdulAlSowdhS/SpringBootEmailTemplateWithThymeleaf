@@ -1,0 +1,2 @@
+# SpringBootEmailTemplateWithThymeleaf
+SpringBootEmailTemplateWithThymeleaf
